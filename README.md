@@ -97,6 +97,7 @@ Keras로 구현한 딥러닝 코드
 - pandas, matplot : [ibrary.md](material/library.md)
 
 기타 자료
+- [의학논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit)
 - Cycle GAN 리뷰 : [cycle_gan.pdf](material/cycle_gan.pdf)
 - 흥미로운 딥러닝 결과 : [some_interesting_deep_learning.pptx](material/deep_learning/some_interesting_deep_learning.pptx)
 - yolo를 사용한 실시간 불량품 탐지 사례 : [yolo_in_field.mp4](material/deep_learning/yolo_in_field.mp4)
@@ -106,7 +107,7 @@ Keras로 구현한 딥러닝 코드
     - YOLO : [object_detection.md](material/deep_learning/object_detection.md)
     - RetinaNet : [object_detection_retinanet.ipynb](material/deep_learning/object_detection_retinanet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_2020/blob/master/material/deep_learning/object_detection_retinanet.ipynb)
     - annotation tool : https://github.com/virajmavani/semi-auto-image-annotation-tool
-
+- 훌륭한 논문 리스트 : https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
 <br>
 
