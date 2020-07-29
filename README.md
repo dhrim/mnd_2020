@@ -98,6 +98,7 @@ Keras로 구현한 딥러닝 코드
 
 기타 자료
 - [의학논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit)
+- GCP에 VM 생성하고 Colab 연결하기 : [create_GCP_VM.pdf](material/deep_learning/create_GCP_VM.pdf)
 - Cycle GAN 리뷰 : [cycle_gan.pdf](material/cycle_gan.pdf)
 - 흥미로운 딥러닝 결과 : [some_interesting_deep_learning.pptx](material/deep_learning/some_interesting_deep_learning.pptx)
 - yolo를 사용한 실시간 불량품 탐지 사례 : [yolo_in_field.mp4](material/deep_learning/yolo_in_field.mp4)
