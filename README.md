@@ -79,7 +79,7 @@ Keras로 구현한 딥러닝 코드
 
 - GAN, 강화학습 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), [wgan_pg_mnist.ipynb.ipynb](material/deep_learning/wgan_pg_mnist.ipynb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_2020/blob/master/material/deep_learning/wgan_pg_mnist.ipynb.ipynb)
 - 알파고 이해하기 : [understanding_ahphago.pptx](material/deep_learning/understanding_ahphago.pptx)
-- Kaggle 문제 풀이 이해
+- Kaggle 문제 풀이 설명
     - Intel Image Classification
         - Basic CNN : https://www.kaggle.com/uzairrj/beg-tut-intel-image-classification-93-76-accur
         - DenseNet with focalloss : https://www.kaggle.com/youngtaek/intel-image-classification-densenet-with-focalloss
@@ -105,7 +105,7 @@ Keras로 구현한 딥러닝 코드
 기타 자료
 - [의학논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit)
 - GCP에 VM 생성하고 Colab 연결하기 : [create_GCP_VM.pdf](material/deep_learning/create_GCP_VM.pdf)
-- Cycle GAN 리뷰 : [cycle_gan.pdf](material/cycle_gan.pdf)
+- Cycle GAN 리뷰 : [cycle_gan.pdf](material/deep_learning/cycle_gan.pdf)
 - 흥미로운 딥러닝 결과 : [some_interesting_deep_learning.pptx](material/deep_learning/some_interesting_deep_learning.pptx)
 - yolo를 사용한 실시간 불량품 탐지 사례 : [yolo_in_field.mp4](material/deep_learning/yolo_in_field.mp4)
 - GAN을 사용한 생산설비 이상 탐지 : [anomaly_detection_using_gan.pptx](material/deep_learning/anomaly_detection_using_gan.pptx)
