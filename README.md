@@ -80,6 +80,11 @@ Keras로 구현한 딥러닝 코드
 - GAN, 강화학습 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), [wgan_pg_mnist.ipynb.ipynb](material/deep_learning/wgan_pg_mnist.ipynb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_2020/blob/master/material/deep_learning/wgan_pg_mnist.ipynb.ipynb)
 - 알파고 이해하기 : [understanding_ahphago.pptx](material/deep_learning/understanding_ahphago.pptx)
 - Kaggle 문제 풀이 이해
+    - Intel Image Classification
+        - Basic CNN : https://www.kaggle.com/uzairrj/beg-tut-intel-image-classification-93-76-accur
+        - DenseNet with focalloss : https://www.kaggle.com/youngtaek/intel-image-classification-densenet-with-focalloss
+    - Google Landmark Retrieval 2020
+        - Create and Train ResNet50 from scratch : https://www.kaggle.com/sandy1112/create-and-train-resnet50-from-scratch
 
 <br>
 
