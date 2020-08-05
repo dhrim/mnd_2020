@@ -63,6 +63,7 @@ Keras로 구현한 딥러닝 코드
 
 실제 사용하는 딥러닝 모델
 
+- Data Augmentatio : [data_augmentation.ipynb](material/deep_learning/data_augmentation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_2020/blob/master/material/deep_learning/data_augmentation.ipynb)
 - VGG로 영상 분류, 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_2020/blob/master/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
 - 영역 분할(segmentation) - U-Net : [unet_segementation.ipynb](material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_2020/blob/master/material/deep_learning/unet_segementation.ipynb)
 - text 분류 - CNN, RNN 사용한 : [text_classification.ipynb](material/deep_learning/text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_2020/blob/master/material/deep_learning/text_classification.ipynb)
