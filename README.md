@@ -115,6 +115,7 @@ Keras로 구현한 딥러닝 코드
     - RetinaNet : [object_detection_retinanet.ipynb](material/deep_learning/object_detection_retinanet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_2020/blob/master/material/deep_learning/object_detection_retinanet.ipynb)
     - annotation tool : https://github.com/virajmavani/semi-auto-image-annotation-tool
 - 훌륭한 논문 리스트 : https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+- online CNN 시각화 자료 : https://poloclub.github.io/cnn-explainer/
 
 <br>
 
